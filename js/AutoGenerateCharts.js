@@ -1,10 +1,12 @@
 
 
 
-DrawCharts("N1");
-
 	function myFunction(district) {
+		
+		if (!district) { district = "N1"}
+		
 		DrawCharts(district);
+		
 		return false;
     }
 
