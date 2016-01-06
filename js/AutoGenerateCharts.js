@@ -1,6 +1,4 @@
 
-myFunction("N1")
-
 	function myFunction(district) {
 		
 		if (!district) { district = "N1"}
