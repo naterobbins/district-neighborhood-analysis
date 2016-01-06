@@ -1,5 +1,5 @@
 
-
+myFunction("N1")
 
 	function myFunction(district) {
 		
