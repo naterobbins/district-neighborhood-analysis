@@ -1,3 +1,4 @@
+DrawCharts("N1");  //load N1 when page loads
 
 	function myFunction(district) {
 		

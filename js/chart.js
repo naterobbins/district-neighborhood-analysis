@@ -6,10 +6,7 @@
  * Copyright 2015 Nick Downie
  * Released under the MIT license
  * https://github.com/nnnick/Chart.js/blob/master/LICENSE.md
- * this is a junk line to make git think there's a change
  */
-
-console.log("giant pizza brain god");
  
 (function(){
 
