@@ -9,7 +9,6 @@
  * this is a junk line to make git think there's a change
  */
 
-
 (function(){
 
 	"use strict";
