@@ -1,21 +1,15 @@
 
 
-var district = "N1";
-	DrawCharts();
-function myFunction() {
-    district = prompt("Please enter the district you want to view. For example, North 5 would be N5. ", "");
-    district = district.toUpperCase();
-    if (district != null) {
-        document.getElementById("demo").innerHTML =
-        "You are now viewing data for Car District " + district + ".";
-		DrawCharts();
-		
+
+DrawCharts("N1");
+
+	function myFunction(district) {
+		DrawCharts(district);
+		return false;
     }
-}
 
-
-
-function DrawCharts() {	
+function DrawCharts(district) {	
+	
 	if(window.myBar != null){
 		window.myBar.destroy();
 	}
@@ -155,8 +149,9 @@ function DrawCharts() {
 		populationDist = QualData[4];
 		document.getElementById('populationDist').innerHTML = "Population: " + populationDist;
 		
-	
+		document.getElementById("demo").innerHTML = "You are now viewing data for Car District " + district + "."
 		});
+		
 		
 	}
 
