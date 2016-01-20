@@ -26,6 +26,8 @@
 	
 </head>
 <script>
+	var johnnyc;
+	
 	$(document).ready(function() {
 		myFunction("N1"); // show N1 by default
 	});
@@ -38,6 +40,7 @@
             url : "textfiles/"+district+"INTRO.txt",
             dataType: "text",
             success : function (data) {
+				johnnyc = data;
                 $(".text1").html(data);
 			
             }
@@ -170,9 +173,11 @@
     </ul>
     <div class="tab-content">
         <div id="West" class="tab-pane fade in active">
-			<div class="text1">
-			<br><br>
-				Select a district to get started. 
+			<div>
+				<p class="text1">
+				<br><br>
+					Select a district to get started.
+				</p>
 			</div>
         </div>
         <div id="City" class="tab-pane fade">
