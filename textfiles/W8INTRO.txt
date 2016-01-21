@@ -15,3 +15,5 @@
 <p>Central West Austin is primarily urban with most development close to environmental features and, in some cases, within the flood plain. This is because the neighborhood developed before environmental regulations were enacted or enforced.</p>
 
 <p>Central West Austin is less diverse than Austin as a whole. Around 80% of neighborhood residents are White. The middle-aged population in the neighborhood recently experienced significant growth. The substantial growth in those aged 45 to 54 suggests that middle-aged residents are staying; the decline in those aged 35 to 44 suggests that younger residents, though they live in the neighborhood in great numbers, are less prone to stay. Additionally, rising home prices could be driving younger residents out.</p>
+
+<p>In 2012-2015, property-abatement cases were the majority of the neighborhood workload. Structure-condition violations were the most common type of case for multifamily, followed by property-abatement cases. While land-use violations led commercial, it also had significant numbers of property-abatement and structure-condition cases.</p>
