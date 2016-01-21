@@ -12,3 +12,6 @@
 <h2>Zilker</h2>
 <p>This neighborhood extends south of Lady Bird Lake, approximately bounded by the Union Pacific Railway to the southeast/south (Lamar Boulevard south of Oltorf), Barton Skyway to the south, Rabb Road and Robert E Lee Road to the west and Lady Bird Lake to the north.</p>
 
+<h2>Complaint Types</h2>
+For neighborhood officers, property-abatement cases are the most common, but there is also a significant number of land-use violations. Commercial officers largely work land-use cases, while most cases for multi-family are structure-condition cases.
+
